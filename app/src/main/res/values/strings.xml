@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Anotacoes</string>
+    <string name="tarefa">Tarefa</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="View">View</string>
+</resources>
